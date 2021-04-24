@@ -31,6 +31,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Aplicação criada para lembrar o usuário de regar suas plantinhas pelo bem do meio ambiente!",
+    "githubUrl": "https://github.com/jsGolden/plant-manager"
   }
 }
