@@ -1,9 +1,4 @@
 # 🌱 Plant Manager - O Notificador ambiental!
-
-<p align="center">
-  <img alt="Plant-Manager"src="https://i.imgur.com/1UEjyJi.png" width="100%" height="auto">
-</p>
-
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,6 +7,11 @@
   <a href="#-demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
+
+<p align="center">
+  <img alt="Plant-Manager"src="https://i.imgur.com/1UEjyJi.png" width="100%" height="auto">
+</p>
+
 
 ## 📌 Projeto
 <br>
