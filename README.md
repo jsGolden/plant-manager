@@ -14,15 +14,14 @@
 
 
 ## 📌 Projeto
-<br>
-    <b>O aplicativo foi criado durante a NLW que ocorreu entre os dias 19 à 25 de Abril de 2021!</b><br/>
-    Seu objetivo é alertar o usuário a hora de regar sua plantinha, de acordo com seu ciclo (semanal/diário)!<br>
-    Além disso, o aplicativo também fornece dicas para cuidar melhor da sua plantinha como, por exemplo, em qual comôdo a plantinha se encaixa melhor, como e onde regar a mesma etc.
+<b>O aplicativo foi criado durante a NLW que ocorreu entre os dias 19 à 25 de Abril de 2021!</b><br/>
+Seu objetivo é alertar o usuário a hora de regar sua plantinha, de acordo com seu ciclo (semanal/diário)!<br>
+Além disso, o aplicativo também fornece dicas para cuidar melhor da sua plantinha como, por exemplo, em qual comôdo a plantinha se encaixa melhor, como e onde regar a mesma etc.
 
-    <p align="center">
-        <img alt="Move-it"src="https://i.imgur.com/9SZ5daE.png" width="100%" height="auto">
-    </p>
-<br>
+<p align="center">
+    <img alt="Move-it"src="https://i.imgur.com/9SZ5daE.png" width="100%" height="auto">
+</p>
+
 
 ## 👩‍💻 Tecnologias
 
