@@ -72,8 +72,12 @@ Apenas necessita do Expo Go instalado em seu dispositivo:
 * [Android](https://play.google.com/store/apps/details?id=host.exp.exponent)
 
 Passo-a-passo:
-1. Abra o aplicativo no celular
+1. Abra o aplicativo no celular e procure pelo escaneador QRCode.
 2. Escaneie o QRCode presente no projeto dentro da expo [clicando aqui!](https://expo.io/@jsgolden/projects/PlantManager)
+3. Ou escaneie o QRCode abaixo:
+<p align="center">
+    <img src="https://i.imgur.com/OYQuzRK.png" alt="qr-code" width="100%" height="auto">
+</p>
 
 ## 🧾 Licença
 Este projeto está sobre a licença MIT.
