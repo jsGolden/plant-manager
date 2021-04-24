@@ -76,7 +76,7 @@ Passo-a-passo:
 2. Escaneie o QRCode presente no projeto dentro da expo [clicando aqui!](https://expo.io/@jsgolden/projects/PlantManager)
 3. Ou escaneie o QRCode abaixo:
 <p align="center">
-    <img src="https://i.imgur.com/OYQuzRK.png" alt="qr-code" width="100%" height="auto">
+    <img src="https://i.imgur.com/OYQuzRK.png" alt="qr-code" width="100px" height="100px" height="auto">
 </p>
 
 ## 🧾 Licença
