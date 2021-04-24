@@ -14,7 +14,7 @@
 
 
 ## 📌 Projeto
-<b>O aplicativo foi criado durante a NLW que ocorreu entre os dias 19 à 25 de Abril de 2021!</b><br/>
+<b>O aplicativo foi criado durante a NLW que ocorreu entre os dias 19 à 25 de Abril de 2021, gerenciado pela</b> [@Rocketseat](https://github.com/Rocketseat)<br>
 Seu objetivo é alertar o usuário a hora de regar sua plantinha, de acordo com seu ciclo (semanal/diário)!<br>
 Além disso, o aplicativo também fornece dicas para cuidar melhor da sua plantinha como, por exemplo, em qual comôdo a plantinha se encaixa melhor, como e onde regar a mesma etc.
 
